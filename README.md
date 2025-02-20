@@ -18,11 +18,3 @@ Clone the repository:
   ```bash
   git clone https://github.com/Darrah-Joshua/C-BMI-Calculator.git
   cd C-BMI-Calculator
-
-Compile and run the program:
-  ```bash
-  gcc bmi_calculator.c -o bmi_calculator
-  ./bmi_calculator
-
-
-
